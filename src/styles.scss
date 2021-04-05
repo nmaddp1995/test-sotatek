@@ -1,0 +1,47 @@
+.fw-500 {
+  font-weight: 500;
+}
+
+.title {
+  font-weight: bold;
+  margin-bottom: 30px;
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+}
+
+.mb-1 {
+  margin-bottom: 0.25rem;
+}
+
+.mb-3 {
+  margin-bottom: 1rem;
+}
+
+.input-title {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.h-100 {
+  height: 100%;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.save-btn {
+  background: #5CB85C;
+  width: 100%;
+  color: #FFFFFF;
+  border-radius: 10px;
+}
